@@ -1,11 +1,24 @@
-- 👋 Hi, I’m @nkchakradhari780
-- 👀 I’m interested in web development, full-stack projects, and tech innovations.
-- 🌱 I’m currently learning advanced Next.js and exploring cloud technologies.
-- 💞️ I’m looking to collaborate on open-source projects and innovative web apps.
-- 📫 How to reach me:
--   LinkedIn: [www.linkedin.com/in/nkchakradhari](https://www.linkedin.com/in/nkchakradhari)
--   Email: nitinchakradhari780@gmail.com
-- 😄 Pronouns: He/Him
+👋 Hi, I'm Nitin Chakradhari
+💻 Full Stack Developer | MERN & MEAN Stack
+🧩 Frontend: React.js | Next.js | Angular
+🛠 Backend: Node.js, Express.js, .NET Core
+🗃 Databases: MongoDB | MySQL | MSSQL
+🎯 I enjoy building scalable, role-based, and user-centric web applications
+
+🚀 Latest Projects:
+
+🔐 Skytm – A .NET-powered backend with secure authentication, AI chat, and activity logging
+
+🏋️‍♂️ Gym Management System – A complete platform to manage trainers, members, attendance, and plans
+
+📘 RTC Website (Raj Tuition Classes) – A smart tuition management website for classes and student tracking
+
+💼 Current Intern at Ikansh Infosoft Solutions
+🎓 NSS President | Ex-Intern @ Zager Digital Services
+📈 Actively learning about token-based auth, real-time systems, and performance optimization
+
+📫 Reach me at: nitinchakradhari@gmail.com
+🔗 LinkedIn | GitHub
 - ⚡ Fun fact: I enjoy solving complex coding challenges and participating in hackathons to sharpen my skills!
 
 
