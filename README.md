@@ -31,7 +31,7 @@
 
 🎓 NSS President | Ex-Intern @ Zager Digital Services  
 📫 Reach me at: nitinchakradhari@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/nkchakradhari) | [GitHub](https://github.com/your-github-link)  
+🔗 [LinkedIn](https://www.linkedin.com/in/nkchakradhari) | [GitHub](https://github.com/nkchakradhari780)  
 
 ⚡ Fun fact: I enjoy solving **complex coding challenges** and participating in **hackathons** to sharpen my skills!
 
