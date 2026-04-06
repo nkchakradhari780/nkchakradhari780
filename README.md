@@ -1,10 +1,10 @@
 👋 Hi, I'm Nitin Chakradhari  
 💻 Full Stack Developer | MERN & MEAN Stack | Angular & Next.js | .NET & Go  
 
+🧠 **Programming & DSA:** C | C++ | C# | Java | Data Structures & Algorithms  
 🧩 **Frontend:** React.js | Next.js | Angular | Tailwind CSS | Bootstrap  
 🛠 **Backend:** Node.js | Express.js | .NET Core | Go | Electron  
 🗃 **Databases:** MongoDB | MySQL | MSSQL | SQLite | PostgresSQL
-🧠 **Programming & DSA:** C | C++ | C# | Java | Data Structures & Algorithms  
 
 🎯 I enjoy building **scalable, role-based, and user-centric web applications** with clean UI/UX and optimized backend systems.  
 
