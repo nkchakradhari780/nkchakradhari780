@@ -1,42 +1,18 @@
-👋 Hi, I'm Nitin Chakradhari  
-💻 Full Stack Developer | MERN & MEAN Stack | Angular & Next.js | .NET & Go  
-
-🧠 **Programming & DSA:** C | C++ | C# | Java | Data Structures & Algorithms  
-🧩 **Frontend:** React.js | Next.js | Angular | Tailwind CSS | Bootstrap  
-🛠 **Backend:** Node.js | Express.js | .NET Core | Go | Electron  
-🗃 **Databases:** MongoDB | MySQL | MSSQL | SQLite | PostgresSQL
-
-🎯 I enjoy building **scalable, role-based, and user-centric web applications** with clean UI/UX and optimized backend systems.  
-
-🚀 **Latest Projects:**  
-
-🔐 **Skytm** – A .NET-powered backend with secure authentication, AI chat integration, and activity logging  
-
-🏋️‍♂️ **Gym Management System** – Complete platform to manage trainers, members, attendance, and plans  
-
-📘 **RTC Website (Raj Tuition Classes)** – Smart tuition management website for classes, student tracking, and role-based access  
-
-🌐 **Other Projects:** Local Link | MyRestro | Loyalty & Rewards Backend | Portfolio Website | Task Management Tool (Electron + SQLite)  
-
-💼 **Experience:**  
-- Project Intern at Ikansh Infosoft Solutions  
-- Web Development Intern at Zager Digital Services  
-- Vocational Training at Skyvo Technologies  
-
-⚡ **Tools & Platforms:** Git | GitHub | Postman | npm | Vite | VS Code | Visual Studio | Figma | Vercel | Netlify | MySQL Workbench | MongoDB Compass | SQLite Studio  
-
-🤖 **AI & Productivity Tools:** Bolt | ChatGPT | Perplexity | Gemini  
-
-📈 **Learning & Growth:** Token-based authentication, real-time systems, advanced backend architectures, AI integrations  
-
-🎓 NSS President | Ex-Intern @ Zager Digital Services  
-📫 Reach me at: nitinchakradhari@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/nkchakradhari) | [GitHub](https://github.com/nkchakradhari780)  
-
-⚡ Fun fact: I enjoy solving **complex coding challenges** and participating in **hackathons** to sharpen my skills!
+# 💫 About Me:
+👋 Hi, I'm Nitin Chakradhari<br>💻 Full Stack Developer | MERN & MEAN Stack | Angular & Next.js | .NET & Go<br><br>🧠 Programming & DSA: C | C++ | C# | Java | Data Structures & Algorithms<br>🧩 Frontend: React.js | Next.js | Angular | Tailwind CSS | Bootstrap<br>🛠 Backend: Node.js | Express.js | .NET Core | Go | Electron<br>🗃 Databases: MongoDB | MySQL | MSSQL | SQLite | PostgresSQL<br><br>🎯 I enjoy building scalable, role-based, and user-centric web applications with clean UI/UX and optimized backend systems.<br><br>🚀 Latest Projects:<br><br>🔐 Skytm – A .NET-powered backend with secure authentication, AI chat integration, and activity logging<br><br>🏋️‍♂️ Gym Management System – Complete platform to manage trainers, members, attendance, and plans<br><br>📘 RTC Website (Raj Tuition Classes) – Smart tuition management website for classes, student tracking, and role-based access<br><br>🌐 Other Projects: Local Link | MyRestro | Loyalty & Rewards Backend | Portfolio Website | Task Management Tool (Electron + SQLite)<br><br>💼 Experience:<br><br>Project Intern at Ikansh Infosoft Solutions<br>Web Development Intern at Zager Digital Services<br>Vocational Training at Skyvo Technologies<br>⚡ Tools & Platforms: Git | GitHub | Postman | npm | Vite | VS Code | Visual Studio | Figma | Vercel | Netlify | MySQL Workbench | MongoDB Compass | SQLite Studio<br><br>🤖 AI & Productivity Tools: Bolt | ChatGPT | Perplexity | Gemini<br><br>📈 Learning & Growth: Token-based authentication, real-time systems, advanced backend architectures, AI integrations<br><br>🎓 NSS President | Ex-Intern @ Zager Digital Services<br>📫 Reach me at: nitinchakradhari@gmail.com<br>🔗 LinkedIn | GitHub<br><br>⚡ Fun fact: I enjoy solving complex coding challenges and participating in hackathons to sharpen my skills!
 
 
-<!---
-nkchakradhari780/nkchakradhari780 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nitinchakradhari_nk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nkchakradhari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nitinchakradhari780@gmail.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Nkchakradhari780&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Nkchakradhari780&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nkchakradhari780&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Nkchakradhari780&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
